@@ -28,3 +28,16 @@ const myData = myAray[0]
 //   ];
   
 //   const myData = myArray[2][1];
+
+// -----------------------------------------------------// .push()
+// Setup
+const myArray = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+myArray.push(["dog", 3])
+
+// -----------------------------pop()
+// Setup
+const myArray = [["John", 23], ["cat", 2]];
+const removedFromMyArray = myArray.pop()
+// Only change code below this line
