@@ -7,3 +7,18 @@ const myDog = {
   
     // Only change code above this line
   };
+
+  // Accessing Object Properties with Variables
+// Another use of bracket notation on objects is to access a property which is stored as the value of a variable. 
+// This can be very useful for iterating through an object's properties or when accessing a lookup table.
+// Set the playerNumber variable to 16. Then, use the variable to look up the player's name and assign it to player.
+// Setup
+const testObj = {
+  12: "Namath",
+  16: "Montana",
+  19: "Unitas"
+};
+
+// Only change code below this line
+const playerNumber = 16;  // Change this line
+const player = testObj[playerNumber];   // Change this line
