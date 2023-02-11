@@ -2,4 +2,4 @@
 
 function addLength(str) {
     const arrayStr = str.split(" ");
-    return arrayStr.map(arrayStr => `${arrayStr} ${arrayStr.length}`)
+    return arrayStr.map(arrayStr => `${arrayStr} ${arrayStr.length}`)}
