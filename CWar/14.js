@@ -26,6 +26,7 @@ function solution (roman) {
           case 'V' : result +=5;
           break;
           case 'X' : result +=10;
+          
           break;
           case 'L' : result +=50;
           break;
