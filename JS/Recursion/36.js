@@ -1,4 +1,4 @@
-Use Recursion to Create a Countdown
+// Use Recursion to Create a Countdown
 // We have defined a function called countdown with one parameter (n). 
 // The function should use recursion to return an array containing the integers n through 1 based on the n parameter. 
 // If the function is called with a number less than 1, the function should return an empty array. 
