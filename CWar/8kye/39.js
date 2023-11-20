@@ -5,5 +5,5 @@ Write a function that will take the number of petals of each flower and return t
 
 
 function lovefunc(flower1, flower2){
- return ((((flower1+flower2)%2)!==0) ? true : false)
+ return ((((flower1 + flower2) % 2) !== 0))
 }
